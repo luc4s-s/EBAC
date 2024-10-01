@@ -96,6 +96,7 @@ section h2{
 
 #sports .articles article a{
     background-color: #009432;
+    border-radius: 10px;
 }
 
 #economy{
@@ -105,4 +106,22 @@ section h2{
 
 #economy .articles article a{
     background-color: #ff9f1a;
+    border-radius: 10px;
+}
+
+#entretenimento{
+    background-color: #CDCDCD;
+}
+
+#entretenimento .articles article a{
+    background-color: #2f3640;
+    border-radius: 10px;
+}
+
+#tecnologia{
+    background-color: #236B8E;
+}
+#tecnologia .articles article a{
+    background-color: #38B0DE;
+    border-radius: 10px;
 }
